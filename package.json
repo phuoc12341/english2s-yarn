@@ -1,0 +1,7 @@
+{
+  "name": "english2s-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phuoc12341/english2s-yarn.git",
+  "license": "MIT"
+}
